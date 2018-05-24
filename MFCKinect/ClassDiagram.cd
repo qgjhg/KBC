@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCKinectDlg.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterDoubleExponentialData" Collapsed="true">
+    <Position X="3" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>jointfliter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FilterDoubleExponential" Collapsed="true">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIBAEAAABgBAAAAAAQAACAAAAQQAAQACAAAAAAE=</HashCode>
+      <FileName>jointfliter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCKinectApp" Collapsed="true">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCKinect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBodyBasics" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CIQABJBAQAIAAAGBAAABABQAAAEAgAAAAIACAAAIAAE=</HashCode>
+      <FileName>MFCKinect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CVplayerclass" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAIAAAAAQAAIAAAAAAAIAAAAAgAAAAAAAAAAEAAA=</HashCode>
+      <FileName>MFCKinect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCKinectDlg" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CMFCKinectDlg::__unnamed_enum_0008_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MFCKinectDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EASAChFEiEIgEDAqAhEAIIAAgBAAIAQAREEEcgEQQLE=</HashCode>
+      <FileName>MFCKinectDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="_TRANSFORM_SMOOTH_PARAMETERS" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAACAAAAAAAAAAAAAAAgAAAAEAAAgAAA=</HashCode>
+      <FileName>jointfliter.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="TRANSFORM_SMOOTH_PARAMETERS" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>jointfliter.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

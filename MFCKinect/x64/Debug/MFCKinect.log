@@ -1,0 +1,14 @@
+﻿  MFCKinectDlg.cpp
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(630): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(630): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(654): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(654): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(989): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(989): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(1013): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(1013): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(1058): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(1058): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(1148): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\aa\desktop\mfckinect\mfckinect\mfckinect\mfckinectdlg.cpp(1148): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+  MFCKinect.vcxproj -> C:\Users\AA\Desktop\MFCKinect\MFCKinect\x64\Debug\MFCKinect.exe
